@@ -14,8 +14,8 @@ client_id = 'OFQUawR0Xfxc-A'
 client_secret = 'alLLwpPK4XTXh8cHIFgHxeCtDW0'
 user_agent = '<console:redditHistoryDeleter:0.0.1 (by /u/WebDevLikeNoOther)>'
 
-username = 'WebDevLikeNoOther'  # REPLACE THIS WITH YOUR USERNAME
-password = 'Juicebox13'  # REPLACE THIS WITH YOUR PASSWORD
+username = 'SomeUsername'  # REPLACE THIS WITH YOUR USERNAME
+password = 'someOtherUsername'  # REPLACE THIS WITH YOUR PASSWORD
 
 reddit = praw.Reddit(
     client_id=client_id, client_secret=client_secret, user_agent=user_agent,
